@@ -1,0 +1,10 @@
+Cycles: 11
+Coins: 50
+Level: EASY
+Remaining Vampires: 2
+Vampires on Board: 1
+
+Game Object List: 
+S;2;0;3
+EV;7;2;5;0
+

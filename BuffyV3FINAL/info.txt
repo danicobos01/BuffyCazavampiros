@@ -1,0 +1,1 @@
+Esta es la practica del vampiro de TPI, los cambios en el word "cambios TP" deberian estar implementados
